@@ -13,4 +13,8 @@ using LHP2324.Models;
         }
 
         public DbSet<LHP2324.Models.Person> Person { get; set; } = default!;
+
+        public DbSet<LHP2324.Models.Student> Student { get; set; } = default!;
+
+        public DbSet<LHP2324.Models.Employee> Employee { get; set; } = default!;
     }

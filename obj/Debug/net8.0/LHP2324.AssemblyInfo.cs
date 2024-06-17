@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("LHP2324")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+45b68468afce0d3eeeb2fae767dc22af15294dea")]
 [assembly: System.Reflection.AssemblyProductAttribute("LHP2324")]
 [assembly: System.Reflection.AssemblyTitleAttribute("LHP2324")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

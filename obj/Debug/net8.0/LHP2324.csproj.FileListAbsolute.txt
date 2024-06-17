@@ -302,3 +302,4 @@ C:\Lai Hong Phpng\LHP2324\obj\Debug\net8.0\refint\LHP2324.dll
 C:\Lai Hong Phpng\LHP2324\obj\Debug\net8.0\LHP2324.pdb
 C:\Lai Hong Phpng\LHP2324\obj\Debug\net8.0\LHP2324.genruntimeconfig.cache
 C:\Lai Hong Phpng\LHP2324\obj\Debug\net8.0\ref\LHP2324.dll
+C:\Lai Hong Phpng\LHP2324\obj\Debug\net8.0\LHP2324.sourcelink.json
