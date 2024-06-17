@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\LHP2324.props" />
+</Project>
